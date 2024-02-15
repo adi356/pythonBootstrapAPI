@@ -23,3 +23,15 @@ Created on Mac OS in VSCode using python 3.11 and .venv for the virtual environm
    
 6. Once modules successfully installed you should be able to run code using the command: python3 bootstrap.py
 7. If successful you will see a csv file named bootstrap_releases.csv created in the directory
+
+### TASK (Calance OA part 1)
+
+We often interface with applications using APIs to read and write data. Please create a small program or script that uses the GitHub API to pull information from the Bootstrap repository and write it to a file.
+
+Repo: twbs/bootstrap using the main branch
+
+- Use the Github API to retrieve a list of releases
+- Write the list of releases to a CSV file. In the file write:
+      - Created date
+      - Tag Name
+      - URL for the distribution zip file
