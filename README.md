@@ -32,6 +32,6 @@ Repo: twbs/bootstrap using the main branch
 
 - Use the Github API to retrieve a list of releases
 - Write the list of releases to a CSV file. In the file write:
-      - Created date
-      - Tag Name
-      - URL for the distribution zip file
+  - Created date
+  - Tag Name
+  - URL for the distribution zip file
